@@ -1,34 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sabbir</h1>
-<h3 align="center">A mobile app developer from Bangladesh</h3>
+### Hi there 👋, I am Sabbir
+####  A mobile app developer from Bangladesh
+![ A mobile app developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirdev&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirdev" /> </p>
+Hello, this is Sabbir. I am a mobile app developer using flutter.
+contact me : 
+facebook: facebook.com/md.sabbir.rahman.818282
+email: mdsjsabbir4@gmail.com
+whatsapp: 01340421103
+Mobile: 01894404546
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirdev" alt="sabbirdev" /></a> </p>
+Skills: Dart / Flutter / python
 
-- 🔭 I’m currently working on **Note Pad**
+- 🔭 I’m currently working on Note_Pad app 
+- 🌱 I’m currently learning Food_Delevery app 
+- 😄 Pronouns: I learn programming for fun 
+- ⚡ Fun fact: I am  a  funny boy 
 
-- 🌱 I’m currently learning **Framework, courses**
 
-- 👯 I’m looking to collaborate on **Food delevery**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SabbirDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook.com/md.sabbir.rahman.818282)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@EditzGuru085)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sabbir085-ai?tab=overview&from=2025-08-01&to=2025-08-30](https://github.com/Sabbir085-ai?tab=overview&from=2025-08-01&to=2025-08-30)
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **mdsjsabbir4@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=SabbirDev)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **I think I am funny**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirDev)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md sabbir rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md sabbir rahman" height="30" width="40" /></a>
-<a href="https://instagram.com/md_sj_sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_sj_sabbir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/editz-guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="editz-guru" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SabbirDev&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SabbirDev/contributions?format=svg&private=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirdev&show_icons=true&locale=en&layout=compact" alt="sabbirdev" /></p>
+![GitHub metrics](https://metrics.lecoq.io/SabbirDev)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirdev&show_icons=true&locale=en" alt="sabbirdev" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SabbirDev)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirdev&" alt="sabbirdev" /></p>
